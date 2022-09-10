@@ -8,11 +8,11 @@ O livro Endentendo Algoritmos apresenta uma abordagem agradável para esse tópi
 
 ## Conteúdo
 
-- [ ] 1. Introdução a algoritmos
+- [x] 1. Introdução a algoritmos
     - [x] 1.1 Introdução
     - [x] 1.2 Pesquisa Binária
-    - [ ] 1.3 Notação Big O
-    - [ ] 1.4 Recapitulando
+    - [x] 1.3 Notação Big O
+    - [x] 1.4 Recapitulando
 - [ ] 2. Ordenação por seleção
     - [ ] 2.1 Como funciona a memória
     - [ ] 2.2 Arrays e listas encadeadas
