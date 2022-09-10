@@ -10,14 +10,14 @@ O livro Endentendo Algoritmos apresenta uma abordagem agradável para esse tópi
 
 - [x] 1. Introdução a algoritmos
     - [x] 1.1 Introdução
-    - [x] 1.2 Pesquisa Binária
+    - [x] 1.2 <a href="https://github.com/marcossouz/entendendo-algoritmos/blob/main/chapter_1/pesquisa_binaria.py">Pesquisa Binária</a>
     - [x] 1.3 Notação Big O
     - [x] 1.4 Recapitulando
-- [ ] 2. Ordenação por seleção
-    - [ ] 2.1 Como funciona a memória
-    - [ ] 2.2 Arrays e listas encadeadas
-    - [ ] 2.3 Ordenação por seleção
-    - [ ] 2.4 Recapitulando
+- [x] 2. Ordenação por seleção
+    - [x] 2.1 Como funciona a memória
+    - [x] 2.2 Arrays e listas encadeadas
+    - [x] 2.3 <a href="https://github.com/marcossouz/entendendo-algoritmos/blob/main/chapter_2/ordenacao_por_selecao.py">Ordenação por seleção</a>
+    - [x] 2.4 Recapitulando
 - [ ] 3. Recursão
     - [ ] 3.1 Recursão
     - [ ] 3.2 Caso-base e caso recursivo
